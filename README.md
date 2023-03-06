@@ -13,10 +13,10 @@ voice commands.
 - I would be able to search informations on Wikipedia
 - I would be able to start some system applications including the calculator and Notepad
 - I would be able to get the current time
-- I would be able to shutdow, restart the laptop and put it on sleep moduse
+- I would be able to shutdown, restart the laptop and put it on sleep moduse
 
 ## Project requirments:
 - Software:
-          - IDE PyCahrm
+          - IDE PyCharm
           - programing language Python.
 
